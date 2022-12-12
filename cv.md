@@ -19,6 +19,7 @@
 ## Experience
 #### I have’t big experience in commercial development, only tried to do few projects with Youtube videos
 * Udemy courses
+* HTML Academy
  
 ## Education 
 * ##### 2006-2011 National pedagogical university of M.Dragomanov(geography department)
